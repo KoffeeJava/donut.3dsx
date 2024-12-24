@@ -8,7 +8,7 @@ I wanted to port something to the 3ds for a while and I thought of donut.c !
 
 # Credits
 
-Andy Sloane (Creator of donut.c)
+Andy Sloane (Creator of donut.c info [here](https://www.a1k0n.net/2011/07/20/donut-math.html)
 
 GCR (formated version [Gist here](https://gist.github.com/gcr/1075131) )
 
